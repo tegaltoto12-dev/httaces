@@ -24,9 +24,4 @@ deny from 152.42.209.84
 # php -- BEGIN cPanel-generated handler, do not edit
 # This domain inherits the “PHP” package.
 # php -- END cPanel-generated handler, do not edit
-deny from 103.11.219.22
-deny from 118.67.205.41
-deny from 11.118.141.174
-deny from 102.90.93.82
-deny from 203.22.241.5
-deny from 54.195.96.253
+deny from 117.120.26.149
